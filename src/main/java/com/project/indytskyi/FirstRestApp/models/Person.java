@@ -7,6 +7,11 @@ import javax.validation.constraints.Size;
 import java.time.LocalDateTime;
 
 
+class First {
+
+}
+
+
 @Entity
 @Table(name = "person")
 public class Person {
